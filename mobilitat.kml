@@ -1,0 +1,1247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mobilitat ETSAB</name>
+		<description><![CDATA[Programa de mobilitat ETSAB curs 2013/14]]></description>
+		<Folder>
+			<name>Capa sin nombre</name>
+			<Placemark>
+				<name>EtsaB</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>2.1140388999999686,41.38406519999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität Berlin Institut für Architektur</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>13.323496299999988,52.51379379999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität Darmstadt Fachbereich Architektur</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>8.676702699999964,49.861146500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leibniz Universität Hannover - Fakultät für Architektur und Landschaft</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>9.695992,52.393044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität München, Fakultät für Architektur</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>11.567825500000026,48.1493505,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universität Stuttgart - Fakultät Architektur und Stadtplanung</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>9.177929,48.773312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität Wien - Fakultät für Architektur und Raumplanung</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.370111,48.198654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Université Libre de Bruxelles - Faculté d'Architecture La Cambre-Horta</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.266751,50.813976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Univerza v Ljubljani - Fakulteta za arhitekturo</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>14.504141999999998,46.045849,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aalto Yliopisto - Teknillinen korkeakoulu (HELSINKI)</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>24.828329,60.186085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA LILLE</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>3.1262090000000002,50.620223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA Grenoble</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.733448599999974,45.1603317,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA Lyon</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.923697000000001,45.779872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA PARIS-B</name>
+				<description><![CDATA[75019 Paris, França]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>2.374187,48.874816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA PARIS-M</name>
+				<description><![CDATA[75006 Paris, França]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>2.334618,48.85660800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA PARIS-V</name>
+				<description><![CDATA[75019 Paris, França]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>2.381052,48.893617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA Toulouse</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>1.396537,43.578557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENSA Versailles</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>2.127174,48.80180200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EDINBURGH</name>
+				<description><![CDATA[Edinburgh, City of Edinburgh EH3, Regne Unit]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-3.197559,55.944887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glasgow </name>
+				<description><![CDATA[Glasgow, Glasgow City G3, Regne Unit]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-4.263323,55.866168,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ATENAS</name>
+				<styleUrl>#icon-101-nodesc</styleUrl>
+				<Point>
+					<coordinates>23.782053,37.977052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AMSTERDAM</name>
+				<description><![CDATA[1011 Binnenstad, Països Baixos]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>4.903272,52.367723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TU-DELFT</name>
+				<description><![CDATA[2628 Delft, Països Baixos]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>4.369597,52.005438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Budapest</name>
+				<description><![CDATA[1111 Budapest, Hongria]]></description>
+				<styleUrl>#icon-101</styleUrl>
+				<Point>
+					<coordinates>19.056134,47.481751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University College Dublin</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>-6.219077,53.30726200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ferrara </name>
+				<description><![CDATA[44121 Ferrara FE, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>11.622271,44.828178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FIRENZE</name>
+				<description><![CDATA[50121 Firenze, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>11.259425,43.777812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Genova</name>
+				<description><![CDATA[16123 Genova, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>8.931233,44.404593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milano-B</name>
+				<description><![CDATA[20158 Milano, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>9.166707,45.50623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MILANO-L</name>
+				<description><![CDATA[20133 Milano, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>9.226519,45.48031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PALERMO</name>
+				<description><![CDATA[90133 Palermo, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>13.3697,38.117818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piazzale Aldo Moro, 5, La Sapienza - Città Universitaria</name>
+				<description><![CDATA[00185 Roma, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>12.512097,41.901758,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ROMA-TRE</name>
+				<description><![CDATA[00184 Roma, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>12.4904,41.894478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Viale Pier Andrea Mattioli, 39</name>
+				<description><![CDATA[10125 Torino, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>7.684821,45.053789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fondamenta dei Tolentini, 191</name>
+				<description><![CDATA[30135 Venezia, Itàlia]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>12.321386,45.437868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oslo School of Architecture and Design</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>10.75074,59.924817000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universitat Noruega de Ciència i Tecnologia</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>10.401925,63.41950400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Biblioteka Politechniki Krakowskiej</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>19.943935,50.071557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plac Politechniki 1</name>
+				<description><![CDATA[01-001 Warszawa, Polònia]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>21.01051,52.220415,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kauno technologijos universitetas, Statybos ir architekturos fakultetas</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>23.956122,54.905949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>U T L Instituto Superior Técnico</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-9.138908,38.736737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tapada da Ajuda</name>
+				<description><![CDATA[1300 Lisboa, Portugal]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>-9.187115,38.712259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PORTO</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.635769,41.150433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ceské Vysoké Ucení Technické v Praze - Fakulta Architektury</name>
+				<description><![CDATA[República Txeca]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>14.388387300000002,50.1044243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ion Mincu University of Architecture and Urbanism</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>26.099728,44.43591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universitat de Lund</name>
+				<styleUrl>#icon-101-nodesc</styleUrl>
+				<Point>
+					<coordinates>13.210512000000001,55.710443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Skolan f teknikvetenskap KTH Inst f farkost &amp; flyg</name>
+				<styleUrl>#icon-101-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.072032,59.348357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Station 16</name>
+				<description><![CDATA[EPFL, 1015 Ecublens, Suïssa]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>6.564714,46.521298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Largo Bernasconi 2</name>
+				<description><![CDATA[Università della Svizzera Italiana - Campus di Mendrisio, 6850 Mendrisio, Suïssa]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>8.984889,45.867369000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tössfeldstrasse 11</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_uM8rVPWtaH9x8SkyyzR6AeXfBTn8Ox7xOXPbEDTIc1yO_z6foz9nozWybXPtrhKOoSG52w4VCWFHerpJqWJIbQA_zRiIvIWMupHu09SXT2IfJzrQxOp6GjRnYagjrWHBaUFhl67" height="200" width="auto" /><br><br>8400 Winterthur, Suïssa]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/_uM8rVPWtaH9x8SkyyzR6AeXfBTn8Ox7xOXPbEDTIc1yO_z6foz9nozWybXPtrhKOoSG52w4VCWFHerpJqWJIbQA_zRiIvIWMupHu09SXT2IfJzrQxOp6GjRnYagjrWHBaUFhl67</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>8.716025000000002,47.493469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rämistrasse 101</name>
+				<description><![CDATA[ETH Zürich, 8006 Zürich, Suïssa]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>8.547995,47.37642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yıldız Technical University</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>29.010808000000004,41.05156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sarajevo</name>
+				<description><![CDATA[Bòsnia i Hercegovina]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>18.3564,43.8476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escuela Politécnica Superior de la Universidad de Alicante</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.511293,38.386593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MADRID</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-3.7312010000000004,40.438721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escuela Técnica Superior de Arquitectura de Málaga</name>
+				<description><![CDATA[E.T.S. de Arquitectura<br>Campus Universitario El Ejido<br>Universidad de Málaga<br>29071. Málaga]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-4.419347,36.728065,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escuela Técnica Superior de Arquitectura de San Sebastián</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-2.008953,43.307568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UNIVERSIDAD DE SEVILLA - ESCUELA TECNICA SUPERIOR DE ARQUITECTURA</name>
+				<description><![CDATA[2 places]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-5.98622,37.362377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VALÈNCIAEscuela Técnica Superior de Arquitectura</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.336896,39.483543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BUENOS AIRES</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-58.44392899999999,-34.543726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BRASIL-Ritter dos Reis</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-51.218666,-30.079557000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FAU/USP</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-46.732814000000005,-23.556257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BRASIL-RJ</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>-43.230944,-22.859053,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FARQ</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-56.163826,-34.910138,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FADEU</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>-70.64106,-33.441039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universidad Diego Portales</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>-70.661989,-33.449852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VALPARAISO</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>-71.613328,-33.04468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CUAAD-UdG</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/y05gcqh4mv7Cz492v4Wnxly7ExDOOUn1OhlHC2zQ3EukgORMuKpCj90DS2vi8RgeWdk-O98NMByisj_DvYTKGYhP-f85etQfLvG58j0kM4Psb6NFUdJow1wcJ1CdRfeEFzcZobjkWn_o" height="200" width="auto" /><br><br>Guadalajara, JAL, Mèxic]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/y05gcqh4mv7Cz492v4Wnxly7ExDOOUn1OhlHC2zQ3EukgORMuKpCj90DS2vi8RgeWdk-O98NMByisj_DvYTKGYhP-f85etQfLvG58j0kM4Psb6NFUdJow1wcJ1CdRfeEFzcZobjkWn_o</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-103.347677,20.675178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UNAM</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-99.187399,19.336691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MONTERREY</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>-100.274438,25.622954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Montreal</name>
+				<description><![CDATA[Montreal, QC H3T 1B8, Canadà]]></description>
+				<styleUrl>#icon-101</styleUrl>
+				<Point>
+					<coordinates>-73.621927,45.50477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chicago</name>
+				<description><![CDATA[Chicago, IL 60616, Estats Units d'Amèrica]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-87.628852,41.833818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>160 Convent Ave</name>
+				<description><![CDATA[New York, NY 10031, Estats Units d'Amèrica]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-73.950536,40.819741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tokyo Arts University</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.771832,35.719934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TOKYO-WU</name>
+				<styleUrl>#icon-169-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.720355,35.707301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>KOREA</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>126.99711199999999,37.570593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tsinghua University</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>116.32925,39.999479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shanghai</name>
+				<description><![CDATA[Yang Pu Qu, Shanghai, República Popular de la Xina]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>121.50645,31.282585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HANGZHOU XINA</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.08859200000002,30.304984000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RMIT City campus</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/i156jVOnJbwQBlN5ixaggmfYz2ZImA4dQtLPOx93mcjlLb-Us9er0XNF0d92pLdLbE94Sw14fqk3fuI_nZGrZtByP6Xz4sWBNfJcsyurGU15cjlegxGtvW4F2lTPLWXIWrs5Ap0" height="200" width="auto" /><br><br>124 La Trobe St<br>Melbourne VIC 3001<br>Phone + 61 3 9925 2000<br>rmit.edu.au/about/campuses (http://www.rmit.edu.au/about/campuses)<br><br><img src="https://lh5.googleusercontent.com/proxy/YHesr9BTX3ZPz6PV7xv4lnQOYYcA7BOkjZuLhfuVbTmpSxhfq244z9KkSPXxeNdJG_b_5CvdTF4N3_CHEf6Ux6onMLLicCDGtyFRLXgpAsuiF6Q8tTnNmixGcbmWm4_t5DmVixPGJWr2" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/i156jVOnJbwQBlN5ixaggmfYz2ZImA4dQtLPOx93mcjlLb-Us9er0XNF0d92pLdLbE94Sw14fqk3fuI_nZGrZtByP6Xz4sWBNfJcsyurGU15cjlegxGtvW4F2lTPLWXIWrs5Ap0 https://lh5.googleusercontent.com/proxy/YHesr9BTX3ZPz6PV7xv4lnQOYYcA7BOkjZuLhfuVbTmpSxhfq244z9KkSPXxeNdJG_b_5CvdTF4N3_CHEf6Ux6onMLLicCDGtyFRLXgpAsuiF6Q8tTnNmixGcbmWm4_t5DmVixPGJWr2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>144.96485700000002,-37.809174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RMIT Bundoora campus</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/UKRmZ46phE3WRa4bvtl85suyXeJzxuKW-_R5WYMwdnkEqhV3mpA88rRR2TSRvmvq4DOlJu4QZI2BJFBBrju60zO911hFza0GghfGhbwEeaBa2_6KOqu47U6M4yfZmXDt4je2XCWFlyAc" height="200" width="auto" /><br><br>Plenty Road<br>Bundoora Victoria 3083<br>Phone + 61 3 9925 2000<br>rmit.edu.au/about/campuses (http://www.rmit.edu.au/about/campuses)]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/UKRmZ46phE3WRa4bvtl85suyXeJzxuKW-_R5WYMwdnkEqhV3mpA88rRR2TSRvmvq4DOlJu4QZI2BJFBBrju60zO911hFza0GghfGhbwEeaBa2_6KOqu47U6M4yfZmXDt4je2XCWFlyAc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>145.067253,-37.681103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>QUT</name>
+				<styleUrl>#icon-157-nodesc</styleUrl>
+				<Point>
+					<coordinates>153.015625,-27.452151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SYDNEY</name>
+				<description><![CDATA[Ultimo NSW 2007, Austràlia]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>151.201594,-33.884097,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>College of Architecture</name>
+				<description><![CDATA[Georgia Institute of Technology, Atlanta, Geòrgia 30313]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<Point>
+					<coordinates>-84.395512,33.775995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CUHK</name>
+				<description><![CDATA[CUHK, Hong Kong - Xina]]></description>
+				<styleUrl>#icon-960-DB4436</styleUrl>
+				<Point>
+					<coordinates>114.1699219,22.3500758,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University of Melbourne</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>144.96117379999998,-37.7963689,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENAU Carthage -Ecole nationale d'architecture et d'urbanisme</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>10.337334599999963,36.8726807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universidad Nacional de Rosario: Rectorado</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-60.63602489999999,-32.95024479999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Katholieke Universiteit Leuven</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.700295299999993,50.87795449999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dr Bhanuben Nanavati College Of Architecture For Woman</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>73.8171982,18.48798739999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Style id='icon-101-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-101-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-101'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-101-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-101-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-101-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-101-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-101-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-101-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-101-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-111-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-111-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-111'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-111-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-111-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-111-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-111-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-111-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-111-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-111-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-123-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-123-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-157-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-157-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-157'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-157-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-157-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-157-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-157-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-157-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-157-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-157-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-169-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-169-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-169'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-169-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-169-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-169-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-169-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-169-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-169-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-169-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-61-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-961-F8971B-nodesc-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-961-F8971B-nodesc-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-961-F8971B-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-961-F8971B-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-961-F8971B-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
