@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 48.38405, lng: 2.11405},
+          zoom: 2
+        
+
+        });
+        map.set('styles', [ 
+        {
+            "featureType": "administrative",
+            "elementType": "labels.text.fill",
+            "stylers": [
+                {
+                    "color": "#444444"
+                }
+            ]
+        },
+        {
+            "featureType": "administrative.country",
+            "elementType": "geometry",
+            "stylers": [
+                {
+                    "visibility": "on"
+                },
+                {
+                    "hue": "#ff0000"
+                },
+                {
+                    "saturation": "94"
+                },
+                {
+                    "lightness": "88"
+                },
+                {
+                    "weight": "0.5"
+                },
+                {
+                    "invert_lightness": true
+                }
+            ]
+        },
+        {
+            "featureType": "administrative.neighborhood",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "visibility": "off"
+                }
+            ]
+        },
+        {
+            "featureType": "administrative.locality",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "visibility": "simplified"
+                }
+            ]
+        },
+        {
+            "featureType": "landscape",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "color": "#EEEEEE"
+                }
+            ]
+        },
+        {
+            "featureType": "poi",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "visibility": "off"
+                }
+            ]
+        },
+        {
+            "featureType": "road",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "saturation": -100
+                },
+                {
+                    "lightness": 45
+                }
+                
+            ]
+        },
+        {
+            "featureType": "road.highway",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "visibility": "simplified"
+                }
+            ]
+        },
+        {
+            "featureType": "road.arterial",
+            "elementType": "labels.icon",
+            "stylers": [
+                {
+                    "visibility": "off"
+                }
+            ]
+        },
+        {
+            "featureType": "transit",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "visibility": "off"
+                }
+            ]
+        },
+        {
+            "featureType": "water",
+            "elementType": "all",
+            "stylers": [
+                {
+                    "color": "#d1d1d1"
+                },
+                {
+                    "visibility": "on"
+                }
+            ]
+        }
+    ]);
+
+    //map.data.loadGeoJson('http://zaguan.upc.es/web/movilidad/vitrina/map/data.json');
+    //var ctaLayer = new google.maps.KmlLayer({
+    //url: 'http://zaguan.upc.es/web/movilidad/vitrina/map/etsab.kml'
+    //});
+    //ctaLayer.setMap(map);
+
+    //google.maps.event.addListener(kmlLayer, "status_changed", function() {
+ //  document.getElementById('kmlstatus').innerHTML = "Kml Status:"+kmlLayer.getStatus();
+// });
+    //var ctaLayer = new google.maps.KmlLayer({
+        //url: 'http://zaguan.upc.es/web/movilidad/vitrina/map/etsab.kml',
+       // map: map
+     // });
+
+     //var layer = new google.maps.KmlLayer(kmlPath + '?' + urlSuffix );
+    //layer.setMap(map);
+
+        var ctaLayer = new google.maps.KmlLayer({
+        url: 'http://zaguan.upc.es/web/movilidad/vitrina/map/etsab.kml'
+        });
+    ctaLayer.setMap(map);
+
+      }
+
+    </script>
+    
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9xQObW6xM0EY2bUmEjSbGTg3bkmAI1DI&callback=initMap"
+    async defer></script>
+  </body>
+</html>

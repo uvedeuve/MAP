@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mobilitat ETSAB</name>
+		<description><![CDATA[Programa de mobilitat ETSAB curs 2013/14]]></description>
+		<Folder>
+			<name>Etsab Mobilitat</name>
+			<Placemark>
+				<name>EtsaB</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>2.1140388999999686,41.38406519999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität Berlin Institut für Architektur</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>13.323496299999988,52.51379379999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Technische Universität Darmstadt Fachbereich Architektur</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>8.676702699999964,49.861146500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leibniz Universität Hannover - Fakultät für Architektur und Landschaft</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>9.695992,52.393044,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+
+	</Document>
+
+</kml>
